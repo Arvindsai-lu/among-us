@@ -9,13 +9,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/j4fbBhYgu8mNEHkQ4w/giphy.gif" alt="coding GIF" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
-Link to Clone Project :
-
-    ..........................
-    
-    
     
 <p align="left">
 <img src="https://media.giphy.com/media/x7mg6cMkLEdg2hgV32/giphy.gif" />&nbsp;&nbsp;&nbsp;&nbsp;
