@@ -21,4 +21,4 @@ Link to Clone Project :
     
 <h4 align="centre"> Play Game </h4>
 
-<a href="http://Arvindsai-lu.github.io/among-us.game">Click On Me to Play</a>
+<a href="https://arvindsai-lu.github.io/among-us/">Click On Me to Play</a>
